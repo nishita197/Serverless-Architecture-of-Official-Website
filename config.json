@@ -1,8 +1,0 @@
-{
-    "BUCKET_NAME": "horizontechlabs.tech",
-    "TABLE_NAME": "horizontechlabs",
-    "CONTACT_RECEIVED_TOPIC": "horizontechlabs-sns",
-    "FORWARD_EMAIL": "horizontechlabs@gmail.com",
-    "ACM_CERT_ARN": "",
-    "HOSTED_ZONE_ID": ""
-}
